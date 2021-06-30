@@ -1,0 +1,1 @@
+# uva-10912-simple-minded-hashing
